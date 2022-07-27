@@ -8,6 +8,6 @@
 
  ## Powers and weaknesses
 
-    ➕ Power
-    ➕ Power
+    ➕ Teleportation
+    ➕ Levitating
     ➖ He doesn't always think things through
