@@ -6,7 +6,7 @@ Vicious half snake, half woman who can spit venom and petrifies anyone that look
 
 ## Powers and weaknesses
 
-    ➕ Petrification
-    ➕ Spit venom
-    ➖ Always nauseus because of the venom
-    ➖ Can't look in the mirror
+- ➕ Petrification
+- ➕ Spit venom
+- ➖ Always nauseus because of the venom
+- ➖ Can't look in the mirror
