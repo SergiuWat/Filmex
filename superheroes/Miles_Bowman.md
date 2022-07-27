@@ -6,6 +6,6 @@ At a young age he liked archery, he used to go hunting with his father when the 
 
 ## Powers and weaknesses
 
-  ➕ Quick Eye
-  ➕ Fast
-  ➖ Mortal
+- ➕ Quick Eye
+- ➕ Fast
+- ➖ Mortal
