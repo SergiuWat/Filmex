@@ -1,4 +1,4 @@
-# Wi_Fire
+# Wi-Fire
 
 He can hack every electronic that is connected to the internet using his mind.
 
