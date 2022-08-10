@@ -1,6 +1,6 @@
 # Selena
 
-She is intelligent and creative.
+She is intelligent and creative. Never apologize for being a powerful woman.
 
 ![Selena](../pictures/selena.jpg)
 
